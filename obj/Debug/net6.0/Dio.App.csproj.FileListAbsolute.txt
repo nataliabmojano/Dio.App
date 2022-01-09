@@ -1,0 +1,15 @@
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.csproj.AssemblyReference.cache
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.AssemblyInfoInputs.cache
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.AssemblyInfo.cs
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.csproj.CoreCompileInputs.cache
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\Dio.App.exe
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\Dio.App.deps.json
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\Dio.App.runtimeconfig.json
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\Dio.App.dll
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\ref\Dio.App.dll
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\bin\Debug\net6.0\Dio.App.pdb
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.dll
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\ref\Dio.App.dll
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.pdb
+C:\Users\Natália\Desktop\Dio\appdotnet\Dio.App\obj\Debug\net6.0\Dio.App.genruntimeconfig.cache
